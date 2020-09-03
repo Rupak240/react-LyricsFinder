@@ -1,0 +1,5 @@
+export const GET_LYRICS = 'GET_LYRICS'
+export const LYRICS_ERROR = 'LYRICS_ERROR'
+export const SEARCH_RES = 'SEARCH_RES'
+export const LYRICS_RES = 'LYRICS_RES'
+export const TRACK_RES = 'TRACK_RES'
